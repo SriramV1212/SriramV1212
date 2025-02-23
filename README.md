@@ -1,3 +1,7 @@
+<p align="center">
+  <em>⚽ Make your data dance like Ronaldo at the Santiago Bernabéu—precision, power, and purpose in every move. Turn every algorithm into a masterpiece, and every line of code into a game-winning goal. ⚽</em>
+</p>
+
 <h1 align="center"> ⚽ The Starting XI of Sriram Vivek ⚽ </h1><p align="center"> <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Stadium%20Visitors%20👀&color=green&style=flat-square" alt="Profile Views"/> </p><p align="center"> <em>Data Engineering | Machine Learning | Generative AI | Tech Playmaker</em> </p><p align="center"> <a href="https://www.linkedin.com/in/sriram-vivek-58a673269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:sriram.vivek@stonybrook.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> </p><div align="center">
   
   ```python
@@ -92,7 +96,5 @@ Always open to exciting collaborations and new challenges! Whether you're buildi
 </div>
 
 ---
-<p align="center">
-  <em>⚽ Make your data dance like Ronaldo at the Santiago Bernabéu—precision, power, and purpose in every move. Turn every algorithm into a masterpiece, and every line of code into a game-winning goal. ⚽</em>
-</p>
+
 
