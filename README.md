@@ -15,17 +15,17 @@
 <div align="center">
   
   ```python
-  class DataScientist:
+  class DataScience:
       def __init__(self):
           self.name = "Sriram Vivek"
-          self.role = "Data Scientist & ML Engineer"
-          self.formation = "4-3-3 (Data-ML-Engineering)"
+          self.role = "Data Engineering and AI"
+          self.formation = "4-3-3 (AI-Data-Engineering)"
   ```
 </div>
 
 ## 🏆 Championship History (Education)
-- 🎓 **Premier League**: MS in Data Science @ Stony Brook University *(2024-2026)*
-- 🏅 **Champions League**: BE in Electrical & Electronics @ SSN College of Engineering *(2020-2024)*
+- 🎓 **Champions League**: MS in Data Science @ Stony Brook University *(2024-2026)*
+- 🏅 **World Cup**: BE in Electrical & Electronics @ SSN College of Engineering *(2020-2024)*
 
 ## 🎮 Tactical Formation (Technical Skills)
 
@@ -107,6 +107,6 @@ Always open to exciting collaborations and new challenges! Whether you're buildi
 
 ---
 <p align="center">
-  <em>⚽ Making data dance like Messi with the ball ⚽</em>
+  <em>⚽ Make your data dance like Ronaldo at the Santiago Bernabéu—precision, power, and purpose in every move. Turn every algorithm into a masterpiece, and every line of code into a game-winning goal. ⚽</em>
 </p>
 
