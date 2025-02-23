@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Data Scientist | Machine Learning Engineer | Tech Playmaker</em>
+  <em>Data Engineering | Machine Learning  | Generative - AI | Tech Playmaker</em>
 </p>
 
 <p align="center">
