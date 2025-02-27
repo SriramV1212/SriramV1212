@@ -1,6 +1,4 @@
-Here’s the updated version of your README with accurate GitHub statistics displayed. Replace `YourGitHubUsername` with your actual GitHub username (e.g., `sriramv1212`) to ensure the stats are pulled correctly:
 
-```html
 <p align="center">
   <em>⚽ Make your data dance like Ronaldo at the Santiago Bernabéu—precision, power, and purpose in every move. Turn every algorithm into a masterpiece, and every line of code into a game-winning goal. ⚽</em>
 </p>
@@ -115,13 +113,6 @@ Always open to exciting collaborations and new challenges! Whether you're buildi
 
 ---
 
-### Key Updates:
-1. **GitHub Stats:** Updated the GitHub stats widgets to pull data for `sriramv1212`.
-   - `https://github-readme-stats.vercel.app/api?username=sriramv1212`
-   - `https://github-readme-streak-stats.herokuapp.com/?user=sriramv1212`
-2. **Profile Views:** Updated the profile views badge to use `sriramv1212`.
-   - `https://komarev.com/ghpvc/?username=sriramv1212`
-3. **GitHub Link:** Updated the GitHub badge link to your profile:
-   - `https://github.com/sriramv1212`
 
-Now your README will display accurate GitHub statistics and profile views! 🚀
+
+
