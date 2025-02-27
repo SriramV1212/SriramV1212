@@ -1,9 +1,27 @@
+Here’s the updated version of your README with accurate GitHub statistics displayed. Replace `YourGitHubUsername` with your actual GitHub username (e.g., `sriramv1212`) to ensure the stats are pulled correctly:
+
+```html
 <p align="center">
   <em>⚽ Make your data dance like Ronaldo at the Santiago Bernabéu—precision, power, and purpose in every move. Turn every algorithm into a masterpiece, and every line of code into a game-winning goal. ⚽</em>
 </p>
 
-<h1 align="center"> ⚽ The Starting XI of Sriram Vivek ⚽ </h1><p align="center"> <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Stadium%20Visitors%20👀&color=green&style=flat-square" alt="Profile Views"/> </p><p align="center"> <em>Data Engineering | Machine Learning | Generative AI | Tech Playmaker</em> </p><p align="center"> <a href="https://www.linkedin.com/in/sriram-vivek-58a673269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:sriram.vivek@stonybrook.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> </p><div align="center">
-  
+<h1 align="center"> ⚽ The Starting XI of Sriram Vivek ⚽ </h1>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=sriramv1212&label=Stadium%20Visitors%20👀&color=green&style=flat-square" alt="Profile Views"/> 
+</p>
+
+<p align="center"> 
+  <em>Data Engineering | Machine Learning | Generative AI | Tech Playmaker</em> 
+</p>
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/sriram-vivek-58a673269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
+  <a href="mailto:sriram.vivek@stonybrook.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+  <a href="https://github.com/sriramv1212"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> 
+</p>
+
+<div align="center">
   ```python
   class DataScience:
       def __init__(self):
@@ -74,11 +92,11 @@ fanbase = "User-friendly Streamlit interface"
 ## 📊 Season Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=blue-green" alt="Season Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sriramv1212&show_icons=true&theme=blue-green" alt="Season Statistics"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=blue-green" alt="Match Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriramv1212&theme=blue-green" alt="Match Streak"/>
 </p>
 
 ## 🏟️ Transfer Window
@@ -86,7 +104,6 @@ fanbase = "User-friendly Streamlit interface"
 Always open to exciting collaborations and new challenges! Whether you're building the next big data pipeline or training cutting-edge ML models, let's create something amazing together.
 
 <div align="center">
-  
   ```python
   while True:
       code()
@@ -94,7 +111,17 @@ Always open to exciting collaborations and new challenges! Whether you're buildi
       repeat()
   ```
 </div>
+```
 
 ---
 
+### Key Updates:
+1. **GitHub Stats:** Updated the GitHub stats widgets to pull data for `sriramv1212`.
+   - `https://github-readme-stats.vercel.app/api?username=sriramv1212`
+   - `https://github-readme-streak-stats.herokuapp.com/?user=sriramv1212`
+2. **Profile Views:** Updated the profile views badge to use `sriramv1212`.
+   - `https://komarev.com/ghpvc/?username=sriramv1212`
+3. **GitHub Link:** Updated the GitHub badge link to your profile:
+   - `https://github.com/sriramv1212`
 
+Now your README will display accurate GitHub statistics and profile views! 🚀
