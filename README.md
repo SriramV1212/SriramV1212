@@ -99,7 +99,7 @@ fanbase = "User-friendly Streamlit interface"
 
 ## 🏟️ Transfer Window
 
-Always open to exciting collaborations and new challenges! Whether you're building the next big data pipeline or training cutting-edge ML models, let's create something amazing together.
+Always open to exciting collaborations and new challenges! Whether you're building the next big data pipeline or building exciting AI Agents, let's create something amazing together.
 
 <div align="center">
   ```python
@@ -111,7 +111,6 @@ Always open to exciting collaborations and new challenges! Whether you're buildi
 </div>
 ```
 
----
 
 
 
