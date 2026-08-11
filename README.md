@@ -6,7 +6,7 @@
 
 ### Backend Engineer · AI Infrastructure
 
-I build backend systems and AI applications, with a focus on making them actually work under real conditions, not just in a demo.
+I build backend systems and AI applications. Most of my work sits in distributed systems and AI infrastructure
 
 <br/>
 
