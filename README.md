@@ -169,6 +169,5 @@ Currently spending time on agentic AI systems, Model Context Protocol, productio
 I'm looking at Software Engineering, Backend Engineering, and AI Engineering roles. If you're working on distributed systems, developer infrastructure, or AI systems, feel free to reach out.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriram-vivek/)
-[![GitHub](https://img.shields.io/badge/Explore_my_projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramV1212)
-
+[![GitHub](https://img.shields.io/badge/Explore_my_projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramV1212?tab=repositories)
 </div>
