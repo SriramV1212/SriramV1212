@@ -1,117 +1,225 @@
-
-<p align="center">
-  <em>⚽ Make your data dance like Ronaldo at the Santiago Bernabéu—precision, power, and purpose in every move. Turn every algorithm into a masterpiece, and every line of code into a game-winning goal. ⚽</em>
-</p>
-
-<h1 align="center"> ⚽ The Starting XI of Sriram Vivek ⚽ </h1>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sriramv1212&label=Stadium%20Visitors%20👀&color=green&style=flat-square" alt="Profile Views"/> 
-</p>
-
-<p align="center"> 
-  <em>Data Engineering | Machine Learning | Generative AI | Tech Playmaker</em> 
-</p>
-
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/sriram-vivek-58a673269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
-  <a href="mailto:sriram.vivek@stonybrook.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
-  <a href="https://github.com/sriramv1212"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> 
-</p>
-
 <div align="center">
-  ```python
-  class DataScience:
-      def __init__(self):
-          self.name = "Sriram Vivek"
-          self.role = "Data Engineering and AI"
-          self.formation = "4-3-3 (AI-Data-Engineering)"
-  ```
+
+# Hi, I'm Sriram Vivek 👋
+
+### Software Engineer · AI Engineer · Backend & Distributed Systems
+
+I build reliable backend systems and production-oriented AI applications.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sriram_Vivek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriram-vivek/)
+[![GitHub](https://img.shields.io/badge/GitHub-SriramV1212-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramV1212)
+
 </div>
 
-## 🏆 Championship History (Education)
-- 🎓 **Champions League**: MS in Data Science @ Stony Brook University *(2024-2026)*
-- 🏅 **World Cup**: BE in Electrical & Electronics @ SSN College of Engineering *(2020-2024)*
+---
 
-## 🎮 Tactical Formation (Technical Skills)
+## 👨‍💻 About Me
 
-### 🥅 Goalkeeper (Core Languages)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+I enjoy building backend systems that hold up under real conditions.
 
-### ⚔️ Defenders (Big Data & Cloud)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+I've worked on distributed systems using **gRPC, Kafka, FastAPI, PostgreSQL, Docker, and Kubernetes**, with a focus on reliability, fault tolerance, observability, and asynchronous processing.
 
-### 🏃 Midfielders (DevOps & Tools)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+On the AI side, I build **RAG systems, retrieval infrastructure, MCP servers, and LLM-powered applications**. During my internship at **Galatea Associates**, I worked on an AI proof-of-concept for a major financial services client, building a retrieval pipeline that transformed a 600-page technical specification into usable context for LLM-generated portfolio narratives.
 
-### ⚡ Strikers (Visualization & Analytics)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+More recently, I've been exploring the intersection of **software engineering and AI infrastructure**, including production RAG systems, agent tooling, deployment automation, and MCP-based architectures.
 
-## ⭐ Match Highlights (Featured Projects)
+I'm especially interested in roles where I can work on hard problems across:
 
-### 🌟 Champions League Final: [AI Document Assistant]
-```python
-tech_stack = ["DeepSeek 8B", "RAG", "FAISS", "LangChain"]
-achievement = "Built local AI-powered document processing system"
-motm = "Privacy-focused offline operation"
-```
+- Distributed and event-driven systems
+- Backend engineering
+- AI infrastructure and LLM applications
+- Reliability, scalability, and observability
+- Developer tooling and automation
 
-### 🏆 League Title: [Predictive Maintenance System]
-```python
-accuracy = "90.56% with Random Forest"
-key_stats = ["Real-time monitoring", "MQTT protocol", "Parameter analysis"]
-assists = "Comprehensive maintenance predictions"
-```
+---
 
-### 🎖️ Cup Victory: [Dynamic Sensor Pipeline]
-```python
-formation = ["Apache Kafka", "MySQL", "Grafana"]
-highlight = "Real-time data processing pipeline"
-clean_sheets = "Scalable architecture for multiple sensors"
-```
+## 🛠️ Tech Stack
 
-### 🌠 Super Cup: [Data Cleaning Automation]
-```python
-powered_by = "Google's Gemini API"
-style = "Natural language to Python conversion"
-fanbase = "User-friendly Streamlit interface"
-```
+### Languages
 
-## 📊 Season Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriramv1212&show_icons=true&theme=blue-green" alt="Season Statistics"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,bash" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriramv1212&theme=blue-green" alt="Match Streak"/>
+### Backend & Distributed Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,kafka,postgres,mysql,mongodb,redis" />
 </p>
 
-## 🏟️ Transfer Window
+`gRPC` · `Protocol Buffers` · `REST APIs` · `Apache Spark`
 
-Always open to exciting collaborations and new challenges! Whether you're building the next big data pipeline or building exciting AI Agents, let's create something amazing together.
+### Infrastructure & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,nginx,githubactions,git,linux" />
+</p>
+
+### AI & LLM Engineering
+
+`RAG` · `MCP` · `LangChain` · `LangGraph` · `LlamaIndex` · `LangSmith`  
+`Qdrant` · `PGVector` · `Pinecone` · `ChromaDB` · `Prompt Engineering`
+
+### Observability
+
+`OpenTelemetry` · `Prometheus` · `Grafana` · `Jaeger`
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 Distributed Microservices Orchestration
+
+A fault-tolerant **3-service distributed backend** built using gRPC and Protocol Buffers.
+
+**Highlights**
+- Server-side streaming
+- Circuit breaker
+- Exponential backoff
+- Mutual TLS
+- OpenTelemetry tracing
+- Prometheus + Grafana observability
+- Docker Compose deployment
+
+**Tech**
+
+`Python` `gRPC` `Protobuf` `OpenTelemetry` `Prometheus` `Grafana` `Docker`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ [Event-Driven Payment Processing](https://github.com/SriramV1212/Real-Time-Event-Driven-Payment-Processing-Backend)
+
+A production-style payment backend separating synchronous API ingestion from asynchronous processing using Kafka.
+
+**Highlights**
+- Kafka-based event processing
+- Idempotent consumers
+- Manual offset commits
+- PostgreSQL state machine
+- Dead-letter queue
+- Crash-safe processing
+- 1,000-request load testing
+
+**Tech**
+
+`FastAPI` `Kafka` `PostgreSQL` `Docker` `Python`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 RAG System + Custom MCP Server
+
+An end-to-end retrieval system where a custom MCP server acts as the sole access layer to the underlying knowledge base.
+
+**Highlights**
+- 3,100+ indexed document chunks
+- Custom MCP server with 4 retrieval tools
+- Self-hosted Qdrant
+- FastAPI backend
+- Next.js retrieval inspector
+- Dockerized deployment
+- Nginx + TLS
+- GitHub Actions CI/CD
+
+**Tech**
+
+`Python` `MCP` `Qdrant` `FastAPI` `Next.js` `Docker` `GitHub Actions`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Retrieval Pipeline
+
+Built during my Software Engineering internship at **Galatea Associates** for a financial services AI proof-of-concept.
+
+**Highlights**
+- Processed a 600-page technical specification
+- Extracted text and tables
+- Recursive document chunking
+- OpenAI embeddings
+- PGVector similarity retrieval
+- RAG query service
+- Financial portfolio data processing
+
+**Tech**
+
+`Python` `LangChain` `PGVector` `SQL` `RAG` `LLMs`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 What I'm Exploring
+
+```text
+Distributed Systems   ███████████████████░
+Backend Engineering   ███████████████████░
+AI Infrastructure     ██████████████████░░
+LLM Applications      ██████████████████░░
+Cloud / DevOps        █████████████████░░░
+````
+
+Currently diving deeper into:
+
+* Agentic AI systems
+* Model Context Protocol
+* Production RAG architectures
+* Stream processing with Kafka
+* Distributed system reliability
+* Cloud-native backend engineering
+
+---
+
+## 📊 GitHub
 
 <div align="center">
-  ```python
-  while True:
-      code()
-      play_football()
-      repeat()
-  ```
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SriramV1212&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriramV1212&layout=compact&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SriramV1212&hide_border=true" />
+
+</div>
+
+---
+
+## 🎓 Education
+
+**Stony Brook University**
+M.S. in Computer Science and Applied Mathematics · 2024–2026
+
+**SSN College of Engineering**
+B.E. in Electrical and Electronics Engineering · 2020–2024
+
+---
+
+## 🤝 Let's Connect
+
+I'm currently interested in **Software Engineering, Backend Engineering, and AI Engineering** opportunities.
+
+If you're working on distributed systems, developer infrastructure, AI systems, or something technically challenging, I'd be happy to connect.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sriram-vivek/)
+[![GitHub](https://img.shields.io/badge/Explore_my_projects-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SriramV1212)
+
 </div>
 ```
-
-
-
-
-
