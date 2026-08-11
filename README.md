@@ -17,7 +17,7 @@ I build reliable backend systems and production-oriented AI applications.
 
 I enjoy building backend systems that hold up under real conditions.
 
-I've worked on distributed systems using **gRPC, Kafka, FastAPI, PostgreSQL, Docker, and Kubernetes**, with a focus on reliability, fault tolerance, observability, and asynchronous processing.
+I've worked on distributed systems using **gRPC, Kafka, FastAPI, PostgreSQL and Docker**, with a focus on reliability, fault tolerance, observability, and asynchronous processing.
 
 On the AI side, I build **RAG systems, retrieval infrastructure, MCP servers, and LLM-powered applications**. During my internship at **Galatea Associates**, I worked on an AI proof-of-concept for a major financial services client, building a retrieval pipeline that transformed a 600-page technical specification into usable context for LLM-generated portfolio narratives.
 
