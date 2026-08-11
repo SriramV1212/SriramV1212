@@ -65,7 +65,7 @@ Feel free to reach out or connect, always happy to talk shop.
 <tr>
 <td width="50%" valign="top">
 
-### Distributed Microservices Orchestration
+### [Distributed Microservices Orchestration](https://github.com/SriramV1212/Distributed-Microservices-Orchestration-using-gRPC)
 
 A fault-tolerant 3-service distributed backend built on gRPC and Protocol Buffers.
 
@@ -96,7 +96,7 @@ A production-style payment backend separating synchronous API ingestion from asy
 <tr>
 <td width="50%" valign="top">
 
-### RAG System + Custom MCP Server
+### [Agentic RAG System with Custom MCP Server](https://github.com/SriramV1212/Agentic-RAG-System)
 
 An end-to-end retrieval system where a custom MCP server is the sole access layer to the underlying knowledge base.
 
