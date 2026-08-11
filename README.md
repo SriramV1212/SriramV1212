@@ -20,12 +20,15 @@ I build backend systems and AI applications, with a focus on making them actuall
 
 ## About Me
 
-I work on backend systems and AI infrastructure. On the backend side, that's meant building services with gRPC, Kafka, FastAPI, PostgreSQL, and Docker, and caring about the parts people skip: fault tolerance, observability, what happens when something crashes mid-request.
+I enjoy building backend systems that hold up under real conditions.
 
-On the AI side, I build RAG systems, retrieval infrastructure, MCP servers, and LLM-powered applications. During my internship at Galatea Associates, I built a retrieval pipeline for a financial services AI proof-of-concept, turning a 600-page technical specification into context an LLM could actually use to generate portfolio narratives.
+I've designed a microservices backend with gRPC, adding circuit breakers, mutual TLS, and full OpenTelemetry/Prometheus/Grafana observability to see exactly how the system behaves when things fail, not just when they work. I've also built an event-driven payment processor on Kafka and FastAPI, with idempotent event handling and a dead-letter queue so failures are recoverable instead of silent.
 
-Right now I'm spending most of my time on agentic AI systems, production RAG architecture, and deployment automation.
+More recently, I've been getting hands on with AI infrastructure. During my internship at Galatea Associates, I built a retrieval pipeline for a major financial services client, turning a 600-page technical spec into context an LLM could reliably use for narrative generation. I've also built a full retrieval-augmented system from scratch, including a custom MCP server as the sole access layer to the underlying data, and deployed it end to end with containerization and CI/CD.
 
+ I'm looking to apply these skills somewhere I can dig into hard systems problems and make a real impact.
+
+Feel free to reach out or connect, always happy to talk shop.
 ---
 
 ## Tech Stack
