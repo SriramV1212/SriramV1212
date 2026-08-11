@@ -26,9 +26,10 @@ I've designed a microservices backend with gRPC, adding circuit breakers, mutual
 
 More recently, I've been getting hands on with AI infrastructure. During my internship at Galatea Associates, I built a retrieval pipeline for a major financial services client, turning a 600-page technical spec into context an LLM could reliably use for narrative generation. I've also built a full retrieval-augmented system from scratch, including a custom MCP server as the sole access layer to the underlying data, and deployed it end to end with containerization and CI/CD.
 
- I'm looking to apply these skills somewhere I can dig into hard systems problems and make a real impact.
-
+I'm looking to apply these skills somewhere I can dig into hard systems problems and make a real impact.
 Feel free to reach out or connect, always happy to talk shop.
+
+
 ---
 
 ## Tech Stack
