@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="./profile.jpg" width="200" style="border-radius: 50%;" alt="Sriram Vivek" />
+<img src="./profile.jpg" width="180" style="border-radius: 50%;" alt="Sriram Vivek" />
 
 # Sriram Vivek
 
-### Backend Engineer · AI Infrastructure
+### Software Engineer · Backend & Distributed Systems
 
-I build backend systems and AI applications. Most of my work sits in distributed systems and AI infrastructure
+I build backend systems with a focus on reliability, distributed processing, and the things that happen when the happy path breaks.
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sriram_Vivek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriram-vivek/)
-[![GitHub](https://img.shields.io/badge/GitHub-SriramV1212-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramV1212)
-[![Email](https://img.shields.io/badge/Email-sriramv1202%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriramv1202@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sriram_Vivek-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sriram-vivek/)
+[![GitHub](https://img.shields.io/badge/GitHub-SriramV1212-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SriramV1212)
+[![Email](https://img.shields.io/badge/Email-sriramv1202%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sriramv1202@gmail.com)
 
 </div>
 
@@ -20,42 +20,92 @@ I build backend systems and AI applications. Most of my work sits in distributed
 
 ## About Me
 
-I enjoy building backend systems that hold up under real conditions.
+I'm a software engineer interested in backend engineering, distributed systems, and financial infrastructure.
 
-I've designed a microservices backend with gRPC, adding circuit breakers, mutual TLS, and full OpenTelemetry/Prometheus/Grafana observability to see exactly how the system behaves when things fail, not just when they work. I've also built an event-driven payment processor on Kafka and FastAPI, with idempotent event handling and a dead-letter queue so failures are recoverable instead of silent.
+A lot of the systems I build start with a simple question and then get more interesting once I begin asking what can go wrong.
 
-More recently, I've been getting hands on with AI infrastructure. During my internship at Galatea Associates, I built a retrieval pipeline for a major financial services client, turning a 600-page technical spec into context an LLM could reliably use for narrative generation. I've also built a full retrieval-augmented system from scratch, including a custom MCP server as the sole access layer to the underlying data, and deployed it end to end with containerization and CI/CD.
+What happens if a Kafka message is delivered twice?
+What happens if a service crashes halfway through a request?
+What happens when a downstream dependency becomes unavailable?
+How do I know which service actually caused the latency spike?
 
-I'm looking to apply these skills somewhere I can dig into hard systems problems and make a real impact.
-Feel free to reach out or connect, always happy to talk shop.
+Those questions have led me to work with event-driven architectures, gRPC microservices, idempotent processing, retries, circuit breakers, distributed tracing, dead-letter queues, and CI/CD.
 
+Some things I've built:
+
+* A Kafka-based payment processing backend with idempotent consumers, manual offset management, PostgreSQL state transitions, and failure recovery through a DLQ
+* A distributed gRPC backend with server-side streaming, exponential backoff, circuit breaking, mutual TLS, and end-to-end observability
+* A deployed RAG system with a custom MCP server, Qdrant, FastAPI, Next.js, Docker, Nginx, TLS, and automated deployments through GitHub Actions
+* A retrieval pipeline during my software engineering internship at Galatea Associates for a financial-services AI proof of concept
+
+I'm especially interested in going deeper into **reliable backend systems, concurrency, distributed-system failure modes, testing, and financial infrastructure**.
+
+Outside of code, I'm usually watching football, playing games, experimenting with something in the kitchen, or listening to music while convincing myself that one more song will not turn into another hour.
 
 ---
 
-## Tech Stack
+## Technologies I Work With
 
-**Languages**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,typescript,bash" />
+* **Python**: primary language for backend services, distributed systems, data pipelines, and AI applications
+* **SQL**: PostgreSQL, MS SQL Server, relational data modeling, queries, and application persistence
+* **TypeScript**: frontend and full-stack development with Next.js
+* **Linux / Shell**: deployment, service management, debugging, and development workflows
 
-**Backend & Distributed Systems**
+### Backend & Distributed Systems
 
-<img src="https://skillicons.dev/icons?i=fastapi,kafka,postgres,mysql,mongodb,redis" />
+* **FastAPI**: REST APIs and backend services
+* **Apache Kafka**: event-driven processing, partitioning, consumer groups, offset management, and DLQs
+* **gRPC**: service-to-service communication, Protocol Buffers, and server-side streaming
+* **PostgreSQL**: transactional application state and relational persistence
+* **Redis**: caching and backend data access
+* **MySQL**
+* **MongoDB**
+* **REST APIs**
+* **Protocol Buffers**
 
-`gRPC` &nbsp;·&nbsp; `Protocol Buffers` &nbsp;·&nbsp; `REST APIs` &nbsp;·&nbsp; `Apache Spark`
+### Reliability & Observability
 
-**Infrastructure & DevOps**
+* **OpenTelemetry**: distributed tracing and service instrumentation
+* **Prometheus**: metrics collection
+* **Grafana**: dashboards and operational visibility
+* **Jaeger**: distributed trace inspection
+* **Circuit Breakers**
+* **Exponential Backoff & Retries**
+* **Idempotent Processing**
+* **Dead-Letter Queues**
+* **Failure Simulation**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,nginx,githubactions,git,linux" />
+### Infrastructure & Delivery
 
-**AI & LLM Engineering**
+* **Docker**
+* **Docker Compose**
+* **GitHub Actions**
+* **Nginx**
+* **systemd**
+* **TLS / HTTPS**
+* **Git**
+* **Linux**
+* **Vercel**
 
-`RAG` &nbsp;·&nbsp; `MCP` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `LangGraph` &nbsp;·&nbsp; `LlamaIndex` &nbsp;·&nbsp; `LangSmith`
-`Qdrant` &nbsp;·&nbsp; `PGVector` &nbsp;·&nbsp; `Pinecone` &nbsp;·&nbsp; `ChromaDB` &nbsp;·&nbsp; `Prompt Engineering`
+### AI & Retrieval Systems
 
-**Observability**
+* **Retrieval-Augmented Generation (RAG)**
+* **Model Context Protocol (MCP)**
+* **LangChain**
+* **Qdrant**
+* **PGVector**
+* **OpenAI Embeddings**
+* **LLM API Integration**
+* **Retrieval Pipelines**
+* **Chunking & Vector Search**
 
-`OpenTelemetry` &nbsp;·&nbsp; `Prometheus` &nbsp;·&nbsp; `Grafana` &nbsp;·&nbsp; `Jaeger`
+### Frontend
+
+* **Next.js**
+* **TypeScript**
+* **React**
 
 ---
 
@@ -65,62 +115,94 @@ Feel free to reach out or connect, always happy to talk shop.
 <tr>
 <td width="50%" valign="top">
 
-### [Distributed Microservices Orchestration](https://github.com/SriramV1212/Distributed-Microservices-Orchestration-using-gRPC)
+### [Event-Driven Payment Processing Backend](https://github.com/SriramV1212/Real-Time-Event-Driven-Payment-Processing-Backend)
 
-A fault-tolerant 3-service distributed backend built on gRPC and Protocol Buffers.
+An event-driven payment backend built to explore asynchronous processing, reliability, and failure handling with Kafka.
 
-- Server-side streaming
-- Circuit breaker + exponential backoff
-- Mutual TLS between services
-- OpenTelemetry tracing, Prometheus + Grafana
-- Docker Compose deployment
+**Engineering problems explored**
 
-`Python` `gRPC` `Protobuf` `OpenTelemetry` `Prometheus` `Grafana` `Docker`
+* Idempotent event processing using unique event IDs
+* Manual Kafka offset commits after successful database work
+* PostgreSQL-backed payment state transitions
+* Dead-letter queue for failed events
+* Kafka partitioning and consumer-group parallelism
+* Load testing with 1,000 simulated payment events
+* Failure scenarios around duplicate processing and partial failures
+
+**Built with**
+
+`Python` · `FastAPI` · `Apache Kafka` · `PostgreSQL` · `Docker`
 
 </td>
+
 <td width="50%" valign="top">
 
-### [Event-Driven Payment Processing](https://github.com/SriramV1212/Real-Time-Event-Driven-Payment-Processing-Backend)
+### [Distributed Microservices Orchestration](https://github.com/SriramV1212/Distributed-Microservices-Orchestration-using-gRPC)
 
-A production-style payment backend separating synchronous API ingestion from async downstream processing via Kafka.
+A 3-service distributed backend built to explore service communication, resilience, security, and observability.
 
-- Idempotent consumers, manual offset commits
-- PostgreSQL state machine
-- Dead-letter queue for failed events
-- Load-tested with 1,000 simulated requests
+**Engineering problems explored**
 
-`FastAPI` `Kafka` `PostgreSQL` `Docker` `Python`
+* gRPC service orchestration
+* Server-side streaming
+* Circuit breaking
+* Exponential backoff and retries
+* Mutual TLS between services
+* Distributed tracing
+* Metrics and dashboards
+* Injected service failures
+
+**Built with**
+
+`Python` · `gRPC` · `Protocol Buffers` · `OpenTelemetry` · `Prometheus` · `Grafana` · `Jaeger` · `Docker`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### [Agentic RAG System with Custom MCP Server](https://github.com/SriramV1212/Agentic-RAG-System)
 
-An end-to-end retrieval system where a custom MCP server is the sole access layer to the underlying knowledge base.
+A full-stack retrieval system where a custom MCP server acts as the only interface between the application and its knowledge base.
 
-- 3,100+ indexed document chunks
-- Custom MCP server, 4 retrieval tools
-- Self-hosted Qdrant, FastAPI backend
-- Next.js retrieval inspector UI
-- Dockerized, Nginx + TLS, GitHub Actions CI/CD
+**Engineering work**
 
-`Python` `MCP` `Qdrant` `FastAPI` `Next.js` `Docker` `GitHub Actions`
+* Indexed 3,100+ document chunks
+* Built a custom MCP server exposing four retrieval tools
+* Designed a markdown-aware chunking pipeline
+* Self-hosted Qdrant vector database
+* FastAPI backend
+* Retrieval inspector built with Next.js
+* Dockerized deployment
+* Nginx reverse proxy with TLS
+* Automated deployment through GitHub Actions
+
+**Built with**
+
+`Python` · `MCP` · `Qdrant` · `FastAPI` · `Next.js` · `TypeScript` · `Docker` · `Nginx` · `GitHub Actions`
 
 </td>
+
 <td width="50%" valign="top">
 
-### AI Retrieval Pipeline (Galatea Associates)
+### Financial Services RAG Pipeline
 
-Built during my internship for a financial services AI proof-of-concept.
+Built during my software engineering internship at **Galatea Associates** for a financial-services AI proof of concept.
 
-- Parsed a 600-page technical specification
-- Recursive chunking + OpenAI embeddings
-- PGVector similarity retrieval
-- RAG query service for portfolio data
+**What I worked on**
 
-`Python` `LangChain` `PGVector` `SQL` `RAG` `LLMs`
+* Parsed text and tables from a 600-page optimizer specification
+* Built a recursive document chunking pipeline
+* Generated embeddings for semantic retrieval
+* Stored and queried vectors through PGVector
+* Exposed retrieval through a query service
+* Used SQL to prepare portfolio positions, constraints, and trade data for downstream LLM prompts
+* Documented the system and development workflow for the team
+
+**Built with**
+
+`Python` · `LangChain` · `PGVector` · `PostgreSQL` · `SQL` · `RAG`
 
 </td>
 </tr>
@@ -128,17 +210,66 @@ Built during my internship for a financial services AI proof-of-concept.
 
 ---
 
-## What I'm Exploring
+## What I'm Working On
+
+Right now I'm deliberately going deeper rather than collecting more frameworks.
+
+My current focus is on:
 
 ```text
-Distributed Systems   ███████████████████░
-Backend Engineering   ███████████████████░
-AI Infrastructure     ██████████████████░░
-LLM Applications      ██████████████████░░
-Cloud / DevOps        █████████████████░░░
+Backend Engineering
+├── Testing
+│   ├── Unit tests
+│   ├── Integration tests
+│   └── End-to-end tests
+│
+├── Distributed Systems
+│   ├── Idempotency
+│   ├── Concurrency
+│   ├── Message delivery semantics
+│   ├── Partial failures
+│   └── Recovery
+│
+├── Databases
+│   ├── Transactions
+│   ├── Isolation
+│   ├── Locking
+│   └── PostgreSQL internals
+│
+└── Financial Infrastructure
+    ├── Payments
+    ├── Ledgers
+    ├── Reconciliation
+    └── Correctness
 ```
 
-Currently spending time on agentic AI systems, Model Context Protocol, production RAG architecture, Kafka stream processing, and cloud-native backend reliability.
+I'm also spending more time understanding the fundamentals underneath the tools I use, especially operating systems, networking, databases, and concurrency.
+
+---
+
+## How I Like to Build
+
+I care less about adding another framework to a README and more about understanding why a system behaves the way it does.
+
+A few principles I try to follow:
+
+```text
+Build the happy path.
+        ↓
+Ask how it fails.
+        ↓
+Make the failure reproducible.
+        ↓
+Understand why it happened.
+        ↓
+Add the right safeguard.
+        ↓
+Test it.
+        ↓
+Measure it.
+```
+
+Still learning. Still breaking things. Ideally breaking them intentionally.
 
 ---
 
@@ -149,16 +280,33 @@ Currently spending time on agentic AI systems, Model Context Protocol, productio
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SriramV1212&show_icons=true&hide_border=true&rank_icon=github" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriramV1212&layout=compact&hide_border=true&langs_count=8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SriramV1212&hide_border=true" />
-
 </div>
 
 ---
 
 ## Education
 
-**Stony Brook University** — M.S. Computer Science and Applied Mathematics, 2024–2026
-**SSN College of Engineering** — B.E. Electrical and Electronics Engineering, 2020–2024
+**Stony Brook University**
+M.S. Computer Science and Applied Mathematics, 2024–2026
+
+**SSN College of Engineering**
+B.E. Electrical and Electronics Engineering, 2020–2024
+
+---
+
+## Away From the Keyboard
+
+⚽ **Football**
+Huge football fan. If there's a good match on, there is a very good chance I'm watching it.
+
+🎮 **Gaming**
+One of my favorite ways to switch my brain off after staring at logs for too long.
+
+🍳 **Cooking**
+I enjoy trying new recipes and occasionally discovering that the recipe was right and I was the problem.
+
+🎧 **Music**
+Almost always playing in the background while I work, cook, or do pretty much anything else.
 
 ---
 
@@ -166,8 +314,13 @@ Currently spending time on agentic AI systems, Model Context Protocol, productio
 
 ### Let's Connect
 
-I'm looking at Software Engineering, Backend Engineering, and AI Engineering roles. If you're working on distributed systems, developer infrastructure, or AI systems, feel free to reach out.
+I'm currently interested in **Software Engineering and Backend Engineering** opportunities, particularly teams working on distributed systems, financial infrastructure, developer infrastructure, or reliability-heavy backend problems.
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriram-vivek/)
-[![GitHub](https://img.shields.io/badge/Explore_my_projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SriramV1212?tab=repositories)
+If you're working on something interesting in that space, I'd be happy to connect.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sriram-vivek/)
+[![GitHub](https://img.shields.io/badge/Explore_my_projects-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SriramV1212?tab=repositories)
+
 </div>
