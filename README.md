@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile.jpg" width="180" style="border-radius: 50%;" alt="Sriram Vivek" />
+<!-- <img src="./profile.jpg" width="180" style="border-radius: 50%;" alt="Sriram Vivek" /> -->
 
 # Sriram Vivek
 
