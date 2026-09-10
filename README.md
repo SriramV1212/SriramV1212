@@ -269,8 +269,6 @@ Test it.
 Measure it.
 ```
 
-Still learning. Still breaking things. Ideally breaking them intentionally.
-
 ---
 
 ## GitHub Stats
